@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://madhav-pani:$HF_TOKEN@huggingface.co/spaces/madhav-pani/MNIST_Image_Classification main
+        run: git push --force https://madhav-pani:$HF_TOKEN@huggingface.co/spaces/madhav-pani/MNIST_data_Classification main
