@@ -1,10 +1,10 @@
-title: MNIST_data_Classification
-emoji: ⚡
-colorFrom: gray
-colorTo: purple
+title: MNIST Image Classification
+emoji: 💻
+colorFrom: pink
+colorTo: red
 sdk: streamlit
 sdk_version: 1.41.1
 app_file: app.py
 pinned: false
 license: other
-short_description: 'Deep Learning Project'
+short_description: Image Classification using CNN
